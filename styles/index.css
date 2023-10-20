@@ -1,0 +1,49 @@
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    position: center;
+    display: block;
+    border-radius: 50%;
+    border-radius: 50%;
+    max-width: 100%;
+    height:auto;
+    width: 50%;
+
+}
+a{
+    text-align: right;
+    font-weight: 600;
+    font-size: 50px;
+}
+body{
+    background-image: url(../Images/background\ image.avif); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-blend-mode: darken;
+    
+}
+.mark{
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+    z-index: 10000;
+    font-size:100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    transform:rotate(-30deg);
+    opacity: 0.6;
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+  
+
+}

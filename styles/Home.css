@@ -53,11 +53,11 @@ body{
         background-image: url(../Images/delicious-fried-chicken-plate_144627-27383.avif);
         
     }
-    0%, 25%{
-        background-image: url(../Images/best\ food\ options.avif);
+    0%, 35%{
+        background-image: url(../Images/assortment-pieces-cake_114579-28235.avif);
     }
     0%, 50%{
-        background-image: url(../Images/burger\ offers.avif);
+        background-image: url(../Images/honey\ garlic\ chicken.avif);
     }
     0%, 75%{
         background-image: url(../Images/baked-quails-pan-dark-surface_2829-5596.avif);
@@ -66,7 +66,7 @@ body{
         background-image: url(../Images/side-view-fried-meat-with-french-fries-ketchup_141793-4908.avif);
     }
     0%, 40%{
-        background-image: url(../Images/pizza\ offers.avif);
+        background-image: url(../Images/watermelon-smoothies_1203-9166.avif);
 
 
     }
@@ -139,4 +139,3 @@ button{
     display: none;
 
 }
-

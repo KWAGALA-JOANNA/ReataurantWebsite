@@ -18,7 +18,7 @@ function showPanel(panelIndex, colorCode){
                 node.style.display="none";
                         
                 });
- 
+                
                 tabPanels[panelIndex].style.display="block";
                 tabPanels[panelIndex].style.backgroundColor=colorCode;
 

@@ -1,10 +1,10 @@
 # ReataurantW
-<img width="958" alt="homep" src="https:/<i<img width="960" alt="contactus" src="https://github.com/KWAGALA-JOANNA/ReataurantWebsite/assets/142006038/c1df55a7-4903-4552-843e-1b74b44b2eb0">
-mg width="959" alt="about us" src="https://github.com/KWAGALA-JOANNA/ReataurantWebsite/assets/142006038/d0918465-d59e-458e-8f99-695fc8bb306a">
-/github.com/KWAGALA-JOANNA/ReataurantWebsite/assets/142006038/2714c01b-85b2-4bf6-aaf6-c8c1f62d47da">
-ebsite<img width="937" alt="menu" src="https://github.com/KWAGALA-JOANNA/ReataurantWebsite/assets/142006038/c3f22055-35df-46e6-a6d1-8400afefda4f">
-https://1drv.ms/i/s!AtzZXNdjOPRblmkvyDZoIaTEt4hu?e=weQHKb
-![Uploading image.png…]()
+
+<img width="958" alt="homep" src="https://github.com/KWAGALA-JOANNA/ReataurantWebsite/assets/142006038/855b3834-3f06-41d9-84d1-25ef1e26ced0">
+<img width="937" alt="menu" src="https://github.com/KWAGALA-JOANNA/ReataurantWebsite/assets/142006038/741acb90-6ef8-42c3-bcc7-58e5e6a2c7f3">
+<img width="959" alt="about us" src="https://github.com/KWAGALA-JOANNA/ReataurantWebsite/assets/142006038/249673aa-d5ee-412e-9569-2e93673a789a">
+<img width="960" alt="contactus" src="https://github.com/KWAGALA-JOANNA/ReataurantWebsite/assets/142006038/6ff9910b-1560-4f8e-8b36-05b8ab9d1aaf">
+
 
 Designing a restaurant online food shop
 
